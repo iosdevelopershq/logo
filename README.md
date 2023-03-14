@@ -7,6 +7,6 @@ If you are working on an open source project by *iOS Developers*, then you allow
 If you decide to use this logo in a way that isn't mentioned here, then please [get in touch](mailto:iosdevelopershq@gmail.com).
 
 ## Behind the Logo
-The logo was designed by [Steve Dixon](https://dribbble.com/stevedixon/) based on common iconography that represents networking.
+The logo was designed by [Steve Dixon](https://github.com/stphndxn) based on common iconography that represents networking.
 
 The logo recently changed color to represent the community's believe and utmost support in gender and race equality.
